@@ -1,7 +1,7 @@
-   
+// https://github.com/ahsanulSowmik/JS-assignment
    
 //   kelometer to meter start 
-   function kelometerToMeter(km)
+   function kilometerToMeter(km)
     {
         //if kelometer is less than 0 than this function will return 0;
         if(km>0)
@@ -16,7 +16,7 @@
     }
 
     var kelometer = 999;
-    var meter = kelometerToMeter(kelometer);
+    var meter = kilometerToMeter(kelometer);
     console.log("meter = " + meter); 
 
 
