@@ -6,7 +6,7 @@
         //if kelometer is less than 0 than this function will return 0;
         if(km>0)
         {
-            return km*100;
+            return km*1000;
 
         }
         else {
